@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 🔭 I’m currently working on problem solving on leetcode and working on developing applications using React.<br>- 🌱 I’m currently learning React<br>- 👯 I’m looking to collaborate on React based applications and also eager to contribute as software Engineer.
+- 🔭 I’m currently working on problem solving on leetcode and working on developing applications using React.
+- 👯 I’m looking to collaborate on React based applications and also eager to contribute as software Engineer.
 
 
 ## 🌐 Socials:
